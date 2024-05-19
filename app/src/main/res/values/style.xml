@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="country">
+        <item name="android:textSize">14dp</item>
+        <item name="android:paddingLeft">4dp</item>
+        <item name="android:textColor">#303130</item>
+    </style>
+    <style name="code">
+
+    </style>
+</resources>
